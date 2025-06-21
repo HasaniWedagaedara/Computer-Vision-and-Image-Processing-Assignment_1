@@ -2,7 +2,7 @@
 
 ## 📝 Take Home Assignment 1
 
-This repository contains Python code and sample results for the take-home assignment on fundamental image processing operations.
+### This repository contains Python code and sample results for the take-home assignment on fundamental image processing operations.
 ---
 
 ## 📌 Assignment Tasks
@@ -26,12 +26,13 @@ For every  block in the image:
 
 ## 💻 Technologies Used
 
-Python
-OpenCV
-NumPy
-Matplotlib
-Jupyter Notebook
+- Python
+- OpenCV
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
+---
 ## 🖼️ Sample Input Image
 Place the input image as image.jpg in the same folder as the notebook.
 
